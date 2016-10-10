@@ -1,6 +1,6 @@
 #include "player3d360.h"
 #include <QApplication>
-//this is a test
+//this is a test2
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
